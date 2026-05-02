@@ -519,3 +519,12 @@ nav {
     grid-template-columns: 1fr;
   }
 }
+
+.source-list a {
+  color: #6b1a14;
+  text-decoration: none;
+}
+
+.source-list a:hover {
+  text-decoration: underline;
+}
